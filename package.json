@@ -1,0 +1,24 @@
+{
+  "name": "node-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrasadLalu/node-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrasadLalu/node-demo/issues"
+  },
+  "homepage": "https://github.com/PrasadLalu/node-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
